@@ -6,5 +6,9 @@ package com.yihai.util;
  * 时间: 2018-06-28 21:52  
  */
 public class Test {
+	
+	public static void main(String[] args) {
+		System.out.println("Hello Tomcat!");
+	}
 
 }
